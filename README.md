@@ -1,3 +1,9 @@
+
+This site automatically gets deployed to https://018b3d.netlify.com/ upon committing to *master*
+
+
+---- original README below:
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
